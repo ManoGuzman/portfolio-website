@@ -12,23 +12,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ManoGuzman/manoguzman-portfolio">
+  <a href="https://github.com/ManoGuzman/portfolio-website">
     <img src="https://img.icons8.com/?size=100&id=2sgbSsEs7PlR&format=png&color=000000" alt="Portfolio Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Mano Guzmán Portfolio</h3>
+<h3 align="center">Portfolio Website</h3>
 
   <p align="center">
     Personal portfolio website built with Astro and Tailwind CSS, showcasing projects and professional experience.
     <br />
-    <a href="https://github.com/ManoGuzman/manoguzman-portfolio"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ManoGuzman/portfolio-website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://manoguzman.netlify.app">View Demo</a>
     &middot;
-    <a href="https://github.com/ManoGuzman/manoguzman-portfolio/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ManoGuzman/portfolio-website/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/ManoGuzman/manoguzman-portfolio/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/ManoGuzman/portfolio-website/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -95,7 +95,7 @@ Follow these steps to set up the project locally.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ManoGuzman/manoguzman-portfolio.git
+   git clone https://github.com/ManoGuzman/portfolio-website.git
    ```
 2. Install packages with pnpm
    ```sh
@@ -133,7 +133,7 @@ The built files will be in the `dist/` directory, ready for deployment.
 - [ ] Add contact form
 - [ ] Improve animations and transitions
 
-See the [open issues](https://github.com/ManoGuzman/manoguzman-portfolio/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/ManoGuzman/portfolio-website/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +171,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mano Guzmán - [LinkedIn](https://linkedin.com/in/manuel-guzman-a87b841bb)
 
-Project Link: [https://github.com/ManoGuzman/manoguzman-portfolio](https://github.com/ManoGuzman/manoguzman-portfolio)
+Project Link: [https://github.com/ManoGuzman/portfolio-website](https://github.com/ManoGuzman/portfolio-website)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,18 +188,18 @@ Project Link: [https://github.com/ManoGuzman/manoguzman-portfolio](https://githu
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/ManoGuzman/manoguzman-portfolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/ManoGuzman/manoguzman-portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ManoGuzman/manoguzman-portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/ManoGuzman/manoguzman-portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/ManoGuzman/manoguzman-portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/ManoGuzman/manoguzman-portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ManoGuzman/manoguzman-portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/ManoGuzman/manoguzman-portfolio/issues
-[license-shield]: https://img.shields.io/github/license/ManoGuzman/manoguzman-portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/ManoGuzman/manoguzman-portfolio/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/ManoGuzman/portfolio-website.svg?style=for-the-badge
+[contributors-url]: https://github.com/ManoGuzman/portfolio-website/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/ManoGuzman/portfolio-website.svg?style=for-the-badge
+[forks-url]: https://github.com/ManoGuzman/portfolio-website/network/members
+[stars-shield]: https://img.shields.io/github/stars/ManoGuzman/portfolio-website.svg?style=for-the-badge
+[stars-url]: https://github.com/ManoGuzman/portfolio-website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/ManoGuzman/portfolio-website.svg?style=for-the-badge
+[issues-url]: https://github.com/ManoGuzman/portfolio-website/issues
+[license-shield]: https://img.shields.io/github/license/ManoGuzman/portfolio-website.svg?style=for-the-badge
+[license-url]: https://github.com/ManoGuzman/portfolio-website/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/manuel-guzman-b87b841bb/
+[linkedin-url]: https://linkedin.com/in/manuel-guzmán-b87b841bb/
 [Astro]: https://img.shields.io/badge/Astro-FF5F03?style=for-the-badge&logo=astro&logoColor=white
 [Astro-url]: https://astro.build
 [Tailwind]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
