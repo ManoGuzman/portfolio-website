@@ -128,10 +128,12 @@ The built files will be in the `dist/` directory, ready for deployment.
 <!-- ROADMAP -->
 ## Roadmap
 
+<!-- eslint-disable markdown/no-missing-label-refs -->
 - [ ] Add more project case studies
 - [ ] Implement blog section
 - [ ] Add contact form
 - [ ] Improve animations and transitions
+<!-- eslint-enable markdown/no-missing-label-refs -->
 
 See the [open issues](https://github.com/ManoGuzman/portfolio-website/issues) for a full list of proposed features (and known issues).
 
